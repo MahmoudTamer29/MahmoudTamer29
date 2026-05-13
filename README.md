@@ -24,7 +24,7 @@ I am a passionate Developer dedicated to **bridging the gap between complex logi
 ---
 
 ### 🏗️ Featured Project
-**[TaskNotes Web App](https://github.com/MahmoudTamer29/task-management-web-app)**
+**[Task Management Web App](https://github.com/MahmoudTamer29/task-management-web-app)**
 > A focused productivity tool designed for speed and simplicity.
 *   **The Win:** Implemented persistent data handling and dynamic state management using **Context API** and **Local Storage** to ensure a seamless user workflow even after page refreshes.
 *   **Stack:** HTML5, CSS3, JavaScript.
